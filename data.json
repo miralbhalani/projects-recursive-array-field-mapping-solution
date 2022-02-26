@@ -1,0 +1,346 @@
+[
+    {
+      "enabled": false,
+      "guid": "F56AAC06-D2EB-4E1C-B84D-25F72973312E",
+      "level": 0,
+      "text": "Farms",
+      "position": 0,
+      "items": [
+        {
+          "enabled": true,
+          "guid": "144C0989-9938-4AEC-8487-094C23A5F150",
+          "level": 1,
+          "text": "New Farm List",
+          "position": 0,
+          "parent": "F56AAC06-D2EB-4E1C-B84D-25F72973312E",
+          "index": 0
+        },
+        {
+          "enabled": false,
+          "guid": "8FBA7B0B-566E-47CD-885B-1C08B57F34F6",
+          "level": 1,
+          "text": "Farm Lists",
+          "position": 1,
+          "parent": "F56AAC06-D2EB-4E1C-B84D-25F72973312E",
+          "index": 1
+        },
+        {
+          "enabled": true,
+          "guid": "FCD36DBD-0639-4856-A609-549BB10BEC1A",
+          "level": 1,
+          "text": "Farm Upload",
+          "position": 2,
+          "parent": "F56AAC06-D2EB-4E1C-B84D-25F72973312E",
+          "index": 2
+        },
+        {
+          "enabled": false,
+          "guid": "4264DA98-1295-4A65-97C6-313485744B4D",
+          "level": 1,
+          "text": "Campaign",
+          "position": 3,
+          "items": [
+            {
+              "enabled": false,
+              "guid": "9CBDC6BB-5B3D-4F53-B846-AFE55F34C1E9",
+              "level": 2,
+              "text": "New Campaign",
+              "position": 0,
+              "parent": "4264DA98-1295-4A65-97C6-313485744B4D",
+              "index": ""
+            },
+            {
+              "enabled": false,
+              "guid": "281490B5-C67D-4238-9D52-DE1DFA373418",
+              "level": 2,
+              "text": "Campaign List",
+              "position": 1,
+              "parent": "4264DA98-1295-4A65-97C6-313485744B4D",
+              "index": ""
+            }
+          ],
+          "parent": "F56AAC06-D2EB-4E1C-B84D-25F72973312E",
+          "index": 3
+        }
+      ],
+      "parent": "F56AAC06-D2EB-4E1C-B84D-25F72973312E",
+      "index": 0
+    },
+    {
+      "enabled": true,
+      "guid": "1A9127A3-7AC7-4E07-AFA0-B8F8571B1B14",
+      "level": 0,
+      "text": "Vendor",
+      "position": 1,
+      "items": [
+        {
+          "enabled": true,
+          "guid": "6E6B4DA9-D99D-42D8-A4FE-7C7A82B9F1BE",
+          "level": 1,
+          "text": "Vendor List",
+          "position": 0,
+          "parent": "1A9127A3-7AC7-4E07-AFA0-B8F8571B1B14",
+          "index": 0
+        },
+        {
+          "enabled": true,
+          "guid": "63A61762-75FB-466A-8859-25E184C3E016",
+          "level": 1,
+          "text": "Add Vendor",
+          "position": 1,
+          "parent": "1A9127A3-7AC7-4E07-AFA0-B8F8571B1B14",
+          "index": 1
+        }
+      ],
+      "parent": "1A9127A3-7AC7-4E07-AFA0-B8F8571B1B14",
+      "index": 1
+    },
+    {
+      "enabled": false,
+      "guid": "fc2a1cba-4846-454b-a71c-baf115183c5b",
+      "level": 0,
+      "text": "Logout",
+      "position": 2,
+      "parent": "fc2a1cba-4846-454b-a71c-baf115183c5b",
+      "index": 2
+    },
+    {
+      "enabled": false,
+      "guid": "55099C4B-2991-4D8E-BA28-77FFA0F4C8A4",
+      "level": 0,
+      "text": "Leads",
+      "position": 3,
+      "items": [
+        {
+          "enabled": false,
+          "guid": "88BA80ED-AC98-4E64-9252-6A067D998F6B",
+          "level": 1,
+          "text": "Divorce Leads",
+          "position": 0,
+          "parent": "55099C4B-2991-4D8E-BA28-77FFA0F4C8A4",
+          "index": 0
+        },
+        {
+          "enabled": true,
+          "guid": "93B3CA18-1E1A-4D7E-AEA1-4B69C54C6607",
+          "level": 1,
+          "text": "Lead List",
+          "position": 1,
+          "parent": "55099C4B-2991-4D8E-BA28-77FFA0F4C8A4",
+          "index": 1
+        },
+        {
+          "enabled": false,
+          "guid": "2BF90E03-9292-44E6-A174-8FC61888CD85",
+          "level": 1,
+          "text": "New Lead",
+          "position": 2,
+          "parent": "55099C4B-2991-4D8E-BA28-77FFA0F4C8A4",
+          "index": 2
+        }
+      ],
+      "parent": "55099C4B-2991-4D8E-BA28-77FFA0F4C8A4",
+      "index": 3
+    },
+    {
+      "enabled": false,
+      "guid": "ED79BB63-3E4B-494B-89C3-2F2180FE9A13",
+      "level": 0,
+      "text": "Emails",
+      "position": 4,
+      "items": [
+        {
+          "enabled": false,
+          "guid": "16A38E81-93BD-4BAE-AB56-9999195E792A",
+          "level": 1,
+          "text": "New Template",
+          "position": 0,
+          "parent": "ED79BB63-3E4B-494B-89C3-2F2180FE9A13",
+          "index": 0
+        },
+        {
+          "enabled": true,
+          "guid": "7505A605-AB9B-4236-A540-BC0DDE870406",
+          "level": 1,
+          "text": "Template List",
+          "position": 1,
+          "parent": "ED79BB63-3E4B-494B-89C3-2F2180FE9A13",
+          "index": 1
+        },
+        {
+          "enabled": true,
+          "guid": "0FBD823C-01BE-43B9-979B-6616DC75A359",
+          "level": 1,
+          "text": "New Message",
+          "position": 2,
+          "parent": "ED79BB63-3E4B-494B-89C3-2F2180FE9A13",
+          "index": 2
+        },
+        {
+          "enabled": true,
+          "guid": "768A55D7-4AA2-44A2-95F8-7E8E9ED296AB",
+          "level": 1,
+          "text": "Campaign List",
+          "position": 3,
+          "parent": "ED79BB63-3E4B-494B-89C3-2F2180FE9A13",
+          "index": 3
+        },
+        {
+          "enabled": true,
+          "guid": "80F8D07A-AD54-4B16-A5C5-207E1655CEBD",
+          "level": 1,
+          "text": "Mass Email",
+          "position": 4,
+          "parent": "ED79BB63-3E4B-494B-89C3-2F2180FE9A13",
+          "index": 4
+        }
+      ],
+      "parent": "ED79BB63-3E4B-494B-89C3-2F2180FE9A13",
+      "index": 4
+    },
+    {
+      "enabled": true,
+      "guid": "B9A27B16-A165-45A5-86E9-E6CD1CA64601",
+      "level": 0,
+      "text": "Doc Library",
+      "position": 5,
+      "items": [
+        {
+          "enabled": true,
+          "guid": "DB2DDA8E-0758-47F2-9077-D9090E18163B",
+          "level": 1,
+          "text": "Upload Doc",
+          "position": 0,
+          "parent": "B9A27B16-A165-45A5-86E9-E6CD1CA64601",
+          "index": 0
+        }
+      ],
+      "parent": "B9A27B16-A165-45A5-86E9-E6CD1CA64601",
+      "index": 5
+    },
+    {
+      "enabled": true,
+      "guid": "BB9BCCCE-5206-48D7-BB8B-6BF52FE6E05D",
+      "level": 0,
+      "text": "Contacts",
+      "position": 6,
+      "items": [
+        {
+          "enabled": true,
+          "guid": "B95D85E8-1364-49CE-B537-34EA177D9F32",
+          "level": 1,
+          "text": "New Contact",
+          "position": 0,
+          "parent": "BB9BCCCE-5206-48D7-BB8B-6BF52FE6E05D",
+          "index": 0
+        },
+        {
+          "enabled": true,
+          "guid": "F3DFA6F9-35D7-482F-BD76-A59C0B814E08",
+          "level": 1,
+          "text": "Contact List",
+          "position": 1,
+          "parent": "BB9BCCCE-5206-48D7-BB8B-6BF52FE6E05D",
+          "index": 1
+        }
+      ],
+      "parent": "BB9BCCCE-5206-48D7-BB8B-6BF52FE6E05D",
+      "index": 6
+    },
+    {
+      "enabled": true,
+      "guid": "8E80AF1D-1F40-490A-A0EE-F23A3D67A862",
+      "level": 0,
+      "text": "My Stuff",
+      "position": 7,
+      "items": [
+        {
+          "enabled": true,
+          "guid": "BF86D06B-0987-4AAC-85B3-260CDE3E6FBC",
+          "level": 1,
+          "text": "Message Tracking",
+          "position": 0,
+          "parent": "8E80AF1D-1F40-490A-A0EE-F23A3D67A862",
+          "index": 0
+        },
+        {
+          "enabled": true,
+          "guid": "6DAC2423-1CD7-40AF-AC58-6C8BA20BDCFE",
+          "level": 1,
+          "text": "My Tasks",
+          "position": 1,
+          "parent": "8E80AF1D-1F40-490A-A0EE-F23A3D67A862",
+          "index": 1
+        },
+        {
+          "enabled": true,
+          "guid": "39FA71E9-DBF7-483A-995D-28958AFD6A54",
+          "level": 1,
+          "text": "My Followup's",
+          "position": 2,
+          "parent": "8E80AF1D-1F40-490A-A0EE-F23A3D67A862",
+          "index": 2
+        }
+      ],
+      "parent": "8E80AF1D-1F40-490A-A0EE-F23A3D67A862",
+      "index": 7
+    },
+    {
+      "enabled": true,
+      "guid": "59FE6069-9BF9-4438-BF92-54FE09035169",
+      "level": 0,
+      "text": "Setup",
+      "position": 8,
+      "items": [
+        {
+          "enabled": true,
+          "guid": "34784B34-A7AB-4B3B-A256-343182380715",
+          "level": 1,
+          "text": "Admin",
+          "position": 0,
+          "items": [
+            {
+              "enabled": true,
+              "guid": "C5D3EBAD-7795-4F2A-AA95-B232EC48D198",
+              "level": 2,
+              "text": "Menu Items",
+              "position": 0,
+              "parent": "34784B34-A7AB-4B3B-A256-343182380715",
+              "index": ""
+            },
+            {
+              "enabled": true,
+              "guid": "e174a308-eeed-4ab4-a727-90404dedc220",
+              "level": 2,
+              "text": "Admin Test ",
+              "position": 1,
+              "parent": "34784B34-A7AB-4B3B-A256-343182380715",
+              "index": ""
+            }
+          ],
+          "parent": "59FE6069-9BF9-4438-BF92-54FE09035169",
+          "index": 0
+        },
+        {
+          "enabled": true,
+          "guid": "A12EBA5B-9746-466F-BFBC-407B5FC9A835",
+          "level": 1,
+          "text": "Buckets",
+          "position": 1,
+          "parent": "59FE6069-9BF9-4438-BF92-54FE09035169",
+          "index": 1
+        },
+        {
+          "enabled": true,
+          "guid": "3C30C8D8-6F70-492D-80AB-829F602608C7",
+          "level": 1,
+          "text": "Tags",
+          "position": 2,
+          "parent": "59FE6069-9BF9-4438-BF92-54FE09035169",
+          "index": 2
+        }
+      ],
+      "parent": "59FE6069-9BF9-4438-BF92-54FE09035169",
+      "index": 8
+    }
+  ]
